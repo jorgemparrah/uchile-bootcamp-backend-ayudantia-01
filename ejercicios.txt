@@ -1,0 +1,10 @@
+01. Crear una lista con solo los nombres de los productos.
+02. Crear una lista con los id de los productos de la categoría Perfumes.
+03. Crear una lista con los productos que cuesten menos de 15000.
+04. Crear una lista con los productos que contienen en el nombre la letra L.
+05. Mostrar la cantidad de productos que hay en stock.
+06. Mostrar cuanto sería el ingreso total si se vendieran todos los productos que hay en stock.
+07. Mostrar el ingreso total por categoría si se vendieran todos los productos que hay en stock.
+08. Mostrar el producto más caro.
+09. Mostrar el producto más barato de cada categoría.
+10. Mostrar el ingreso total si se vendieran todos los productos que hay en stock y dando un 50% de descuento a la categoría Libros.
