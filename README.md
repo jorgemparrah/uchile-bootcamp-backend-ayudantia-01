@@ -16,16 +16,16 @@ Modificar solo los valores de:
 ```json
 {
   "compilerOptions": {
-    :
-    :
+    .............,
+    .............,
     "module": "AMD",
-    :
-    :
+    .............,
+    .............,
     "outFile": "./main.js",
-    :
-    :
+    .............,
+    ..............
   },
-  include": [
+  "include": [
     "./ejercicios/**/*"
   ],
   "exclude": []
